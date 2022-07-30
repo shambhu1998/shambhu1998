@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shambhu.
-- 👀 I’m interested in Machine Learning and Deep Learning.
-- 🌱 I’m currently focusing on Computer Vision and participating in kaggle competitions.
+- 👀 I’m interested in Machine Learning and Data Engineer.
+- 🌱 I’m currently focusing on ML and Big data.
 - 📫 How to reach me : sksr140@gmail.com
 
 <!---
