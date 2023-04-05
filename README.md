@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shambhu.
-- 👀 I’m interested in Machine Learning and Data Engineer.
-- 🌱 I’m currently focusing on ML and Big data.
+- 👀 I’m interested in Data Engineer and Machine Learning.
+- 🌱 I’m currently focusing on best practices in Data/Software Engineering.
 - 📫 How to reach me : sksr140@gmail.com
 
 <!---
